@@ -1,4 +1,4 @@
-package cursoEmVideo.aula06;
+package curso.aula06;
 
 public class Aula06 {
 
@@ -9,8 +9,7 @@ public class Aula06 {
 		c.play();
 		c.maisVolume();
 		c.abrirMenu();
-		c.desligar();
-		c.abrirMenu();
+		
 		
 	}
 

@@ -1,4 +1,4 @@
-package cursoEmVideo.aula06;
+package curso.aula06;
 
 public interface Controlador {
 	public abstract void ligar();

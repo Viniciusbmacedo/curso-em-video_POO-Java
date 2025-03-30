@@ -1,4 +1,4 @@
-package cursoEmVideo.aula05;
+package curso.aula05;
 
 
 public class ContaBanco {

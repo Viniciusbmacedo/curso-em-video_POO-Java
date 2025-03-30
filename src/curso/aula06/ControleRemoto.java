@@ -1,4 +1,4 @@
-package cursoEmVideo.aula06;
+package curso.aula06;
 
 
 public class ControleRemoto implements Controlador {
