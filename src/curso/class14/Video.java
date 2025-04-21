@@ -25,7 +25,9 @@ public class Video implements VideoActions{
 		return score;
 	}
 	public void setScore(int score) {
-		this.score = score;
+		int newScore;
+		newScore = (int) ((this.score + score)/this.views);
+		this.score = newScore;
 	}
 	public int getViews() {
 		return views;
